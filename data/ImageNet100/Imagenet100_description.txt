@@ -1,0 +1,100 @@
+stingray:rays are fish with a sharp stinger on the tail
+ostrich:ostriches are large, flightless birds with long, strong legs
+jay:jays are common birds belonging to the crow family
+water ouzel:water ouzels are small, drab birds that live in North America
+spotted salamander:spotted salamanders are small, brightly colored salamanders
+alligator lizard:alligator lizards are long, slender lizards with a wide, flat tail
+komodo dragon:komodo dragons are large, powerful monitor lizards from Indonesia
+wolf spider:wolf spiders are large, aggressive spiders belonging to the family Lycosidae
+African grey:African greys are small, grey monkeys from Angola and Zambia
+jacamar:jacamars are small, flightless birds found in South America
+red-breasted merganser:red-breasted mergansers are large, black-and-white water birds from North America
+tusker:tuskers are large, powerful elephant relatives from West Africa
+jellyfish:jellyfish are marine animals with no bones or muscles
+brain coral:brain corals are complex coral reef structures
+snail:snails are long, slender gastropod mollusks
+white stork:white storks are large, white water birds
+dowitcher:dowitchers are small, wader-like birds
+albatross:albatrosses are large, flightless seabirds
+beagle:beagles are short-legged, long-eared dog breeds
+otterhound:otterhounds are large, scent-drivenhound breeds
+Lakeland terrier:Lakeland terriers are small, wire-haired terrier breeds
+giant schnauzer:Giant schnauzers are large, smushed-face schnauzer breeds
+cocker spaniel:Cocker spaniels are small, curly-coated spaniel breeds
+kelpie:kelpies are large, draft-type crossbreeds of cattle
+miniature pinscher:miniature pinschers are small, weasel-like terrier breeds
+Samoyed:Samoyeds are short-legged, thick-furred dog breeds
+Cardigan:Cardigans are small, stocky sheepdog breeds
+standard poodle:standard poodles are small, elegant, labrador-like dog breeds
+Egyptian cat:Egyptian cats are small, originally from ancient Egypt
+snow leopard:snow leopards are large, snow-dwelling leopard subspecies
+jaguar:large, fierce cat species native to South America
+ice bear:cold-blooded mammal from the polar regions
+cockroach:large, multi-legged insect
+hare:small, fast-running mammal
+orangutan:large, ape-like mammal from Borneo and Sumatra
+gibbon:small, apes from Southeast Asia
+guenon:large, yellow-throated apes from Congo
+colobus:monkey species from Africa
+spider monkey:small, monkey species from Amazon Basin
+bath towel:towel used for bathing
+bell cote:bell-shaped metal roofing product
+birdhouse:small structure for housing birds
+bookshop:store selling books
+carton:box-shaped packaging material
+chain saw:power tool for cutting logs and other materials
+chiffonier:piece of furniture with a stand for holding mirrors and other ornaments
+cornet:small wind instrument
+cradle:device for supporting a child's head and body
+crate:box-shaped container for animals or goods
+Crock Pot:slow-cooking appliance
+desktop computer:type of computer that sits on a desk
+dial telephone:device for making phone calls
+dogsled:sled used for pulling dogsleds
+electric locomotive:A powered rail transport vehicle that runs on electricity and pulls carriages or freight.
+flagpole:vertical pole used for supporting flags
+four-poster:four-poster bed
+French horn:wind instrument
+frying pan:pan used for cooking in oil
+fur coat:type of coat made from animal fur
+gas pump:device for dispensing gasoline
+gong:musical instrument used for ceremony and worship
+greenhouse:structure for growing plants in warmth and light
+jeep:A small, rugged, open-top four-wheel drive vehicle often used by the military.
+ladle:tool used for stirring or melting metals
+lighter:device used for lighting candles or torches
+maillot:short shirt worn under a dress or skirt
+marimba:musical instrument
+ocarina:small, wind-driven musical instrument
+overskirt:piece of clothing that covers the skirt and flows out
+palace:large building used for government and entertainment
+paper towel:absorbent towel used for cleaning up spills
+passenger car:A large bus used to transport passengers on longer journeys.
+pencil sharpener:tool used for sharpening pencils
+pickelhaube:German military helmet
+pier:structure for supporting a bridge or other structure
+piggy bank:small box used for storing small change
+pool table:table used for playing pool
+power drill:tool used for drilling holes and screwing in fasteners
+racer:small, fast car used for racing
+radio:device for receiving and transmitting radio waves
+rifle:type of firearm used for hunting and target shooting
+sarong:long, flowing fabric used as a swimsuit or wrap
+schooner:type of sailboat
+sewing machine:device used for sewing fabric
+sliding door:door that slides open and closed
+sunglasses:glasses with lenses for sunglasses
+swimming trunks:briefs worn while swimming
+syringe:device used for injecting medicine or fluids
+theater curtain:fabric used to cover the stage of a theater
+tow truck:A vehicle that transports disabled or illegally parked cars.
+trimaran:three-hulled sailboat
+wardrobe:storage compartment for clothing
+water tower:structure used for storing water for use in homes and businesses
+wreck:ship or boat that has sunk and is now on the ocean floor
+crossword puzzle:type of puzzle where the words are arranged in a grid
+ice cream:frozen food used for eating and enjoyment
+head cabbage:type of head of cabbage
+promontory:point of land jutting out into a body of water
+ballplayer:player in a team sport
+hen-of-the-woods:type of chicken used for roasting and served as a traditional dish in some countries

@@ -1,0 +1,100 @@
+apple: delicious fruit, round shape, red or green skin
+aquarium_fish: colorful, swim in tanks or aquariums, diverse species
+baby: small human, cute and innocent, needs care and attention
+bear: large mammal, fur coat, lives in forests or mountains
+beaver: rodent, builds dams, flat tail with scales
+bed: furniture for sleeping, soft mattress, comes in various sizes
+bee: insect, black and yellow stripes, important for pollination
+beetle: hard-shelled insect, many different species, some fly and others crawl
+bicycle: two-wheeled vehicle, pedal-powered, for transportation or recreation
+bottle: container made of glass or plastic, holds liquids or beverages
+bowl: round dish, used for serving food or eating from, comes in different materials
+boy: young male, playful and energetic, likes sports and games
+bridge: structure that spans over a body of water or gap, connects two places
+bus: large vehicle for transporting people, has many seats
+butterfly: insect, bright and colorful wings, goes through metamorphosis
+camel: desert animal, hump on its back, used for transportation and milk
+can: container made of metal or aluminum, holds food, drinks or other goods
+castle: large fortified building, with turrets and walls, often from medieval times
+caterpillar: larval stage of a butterfly, long and hairy, eats leaves
+cattle: domesticated animals, raised for meat, dairy or labor
+chair: furniture for sitting, has a backrest and sometimes armrests
+chimpanzee: primate, intelligent and social, closely related to humans
+clock: device for measuring time, can be analog or digital
+cloud: visible mass of condensed water vapor, in the sky
+cockroach: insect, brown or black, infamous for being pests
+couch: furniture for seating multiple people, with back support
+crab: crustacean, ten legs, shell-like exoskeleton
+crocodile: semi-aquatic reptile, sharp teeth, preys on other animals
+cup: small container for drinking, made of glass or ceramic
+dinosaur: extinct reptile that lived millions of years ago, comes in various sizes and types
+dolphin: marine mammal, playful and intelligent, good at swimming and jumping
+elephant: largest land animal, gray skin, long trunk and tusks
+flatfish: fish with a flattened body, camouflage abilities, found in oceans and seas
+forest: large area covered with trees and plants, home to many animals and birds
+fox: small carnivorous mammal, known for its sharp senses and cunning
+girl: young female, likes dolls and dressing up, playful and curious
+hamster: small rodent, kept as a pet, likes to run on wheels
+house: building for people to live in, made of various materials, comes in different styles
+kangaroo: marsupial from Australia, hops on two legs, carries its young in a pouch
+keyboard: input device for computers, has keys for typing and commands
+lamp: electric device for providing light, comes in various shapes and sizes
+lawn_mower: machine for cutting grass, used for lawn maintenance
+leopard: big cat, spotted fur coat, stealthy and quick
+lion: large carnivorous feline, known as the king of the jungle, lives in prides
+lizard: reptile, has scales and often can change color, comes in various species
+lobster: marine crustacean, red shell, valued as a food item
+man: adult male, often exhibits strength and leadership qualities
+maple_tree: deciduous tree, famous for its colorful leaves, produces maple syrup
+motorcycle: two-wheeled vehicle, gasoline-powered, used for transportation or recreation
+mountain: large landform, with steep sides and high peak, found on Earth's crust
+mouse: small rodent, likes to nibble on cheese, often kept as a pet
+mushroom: fungus that can be eaten, grows in moist conditions, comes in different shapes and sizes
+oak_tree: deciduous tree, known for its strong wood and acorns, symbol of strength in many cultures
+orange: citrus fruit, rich in vitamin C, comes in different varieties
+orchid: flowering plant, known for its beauty and fragrance, comes in various colors
+otter: aquatic mammal, playful and cute, likes to swim and dive
+palm_tree: tree with tall and slender trunk, found in tropical regions, often associated with beaches
+pear: fruit with thin skin, sweet and juicy, comes in various shapes and colors
+pickup_truck: vehicle with an open cargo area in the back, used for transportation or hauling goods
+pine_tree: coniferous tree, with needles instead of leaves, often used in Christmas decorations
+plain: large stretch of flat land, often grassy or sandy, lacks significant features
+plate: flat dish, used for serving food, comes in diverse styles and materials
+poppy: flowering plant, known for its bright colors and medicinal properties
+porcupine: small mammal with sharp quills on its back, often found in forests
+possum: small marsupial, known for its prehensile tail, found in certain regions of the world
+rabbit: small mammal with long ears and fluffy tail, likes to hop around and eat carrots
+raccoon: North American mammal with a distinctive masked face and striped tail.
+ray: Marine fish with a flattened body and wing-like fins.
+road: A flattened, paved surface used for vehicular travel.
+rocket: A vehicle or device propelled by a rocket engine.
+rose: Fragrant flower with thorny stems and delicate petals.
+sea: Large body of saltwater covering most of the Earth's surface.
+seal: Aquatic mammal with a sleek, blubbery body and flippers.
+shark: Large predatory fish with a pointed snout and sharp teeth.
+shrew: Small, insect-eating mammal with a pointy nose and tiny paws.
+skunk: Mammal with black and white striped fur and a strong, unpleasant odor.
+skyscraper: Tallest buildings in cities, often over 100 stories high.
+snail: Gastropod mollusk with a spiral shell.
+snake: Long, legless reptile with scales and fangs.
+spider: Eight-legged arachnid known for weaving webs to catch prey.
+squirrel: Small, bushy-tailed rodent that loves nuts and acorns.
+streetcar: Public transportation vehicle that runs on tracks embedded in the street.
+sunflower: Bright yellow flower with a large, round center and many petals.
+sweet pepper: Bell-shaped vegetable with green, red or yellow skin and sweet flesh.
+table: Piece of furniture with a flat surface and one or more legs.
+tank: Large, armored military vehicle with tracks or wheels and a powerful weapon.
+telephone: Communication device used to talk to someone over a long distance.
+television: Electronic device used for broadcasting and receiving visual images and sound.
+tiger: Large, striped predator with powerful muscles and sharp teeth.
+tractor: Heavy-duty farming vehicle used for plowing fields and pulling machinery.
+train: Long, connected series of railway cars or carriages, usually powered by a locomotive.
+trout: Freshwater fish with speckled skin and a streamlined body.
+tulip: Bulbous flower with many-colored petals and a tall stalk.
+turtle: Reptile known for its hard, protective shell and slow movement.
+wardrobe: Furniture item used for storing clothes and personal belongings.
+whale: Large marine mammal with a streamlined body and blowhole on top of its head.
+willow tree: Deciduous tree with drooping branches and narrow leaves.
+wolf: Canine predator known for hunting in packs.
+woman: Female human being, typically distinguished from a man by secondary sexual characteristics.
+worm: Legless invertebrate that burrows in soil or lives in water.

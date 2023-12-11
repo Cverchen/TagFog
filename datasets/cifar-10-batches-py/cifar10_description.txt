@@ -1,0 +1,10 @@
+airplane is a machine that flies by using engines to produce lift.
+automobile is a vehicle that is designed to transport people and goods on roads.
+bird is a flying animal that has a long, slender beak and wings that are adapted for flight.
+cat is a small, carnivorous mammal with a fluffy coat and sharp teeth.
+deer is a hoofed mammal that is found in North America and other regions of the world.
+dog is a member of the wolf family that is often used as a pet or a guard dog.
+frog is a small, aquatic amphibian with webbed feet and a flexible body.
+horse is a large, equine mammal that is commonly used for transportation and sport.
+ship is a large watercraft that is used for transportation and travel on rivers, lakes, and oceans.
+truck is a large vehicle that is used for transportation of goods and materials.

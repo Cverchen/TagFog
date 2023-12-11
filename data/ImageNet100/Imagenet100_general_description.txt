@@ -1,0 +1,100 @@
+Brambling:A small passerine bird in the finch family, known for its lively behavior and colorful plumage.
+Alligator lizard:A species of lizard found in the Americas, with long, flexible bodies and powerful legs.
+Thunder snake:A species of snake in the family Pythonidae, known for its loud hissing sound when threatened.
+Night snake:A species of snake in the family Colubridae, known for living in the underground burrows during the day.
+Indian cobra:A species of snake in the family Elapidae, known for its powerful venom and long hood.
+tarantula:A type of arachnid in the family Theraphosidae, known for their large size and colorful plumage.
+Rock crab:A species of crab in the family Carcidae, known for their large claws and ability to live in a variety of environments.
+Hermit crab:A species of crab in the family Corytophanidae, known for living in the shells of other sea creatures.
+white stork:A species of bird in the family Asiolidae, known for their long, flowing wings and black and white plumage.
+Little blue heron:A species of bird in the family Ardeidae, known for their large heads and powerful legs.
+Albatross:A species of bird in the family Alcedinidae, known for their long, flowing wings and ability to fly for long periods of time.
+Sea lion:A species of mammal in the family Otariidae, known for their strong, distinctive jaws and ability to swim and dive extensively.
+Chihuahua:A small dog breed known for its small size, fluffy coat and wagging tail.
+Japanese spaniel:A breed of dog in the family Canidae, known for their Intelligence, energy and love of play.
+redbone:A breed of dog in the family Canidae, known for its long, flowing hair and ability to survive in cold climates.
+borzoi:A breed of dog in the family Canidae, known for their strong jaws, square shape and rich, dark coat.
+whippet:A breed of dog in the family Canidae, known for their fast running speed and long, flowing hair.
+Border terrier:A breed of dog in the family Canidae, known for their small size, Intelligence and eagerness to please.
+Scotch terrier:A breed of dog in the family Canidae, known for their small size, square face and strong jaws.
+Golden retriever:A breed of dog in the family Canidae, known for their large size, wagging tail and love of play.
+Labrador retriever:A breed of dog in the family Canidae, known for their Intelligence, energy and love of play.
+Doberman:A breed of dog in the family Canidae, known for their strong jaws, square shape and rich, dark coat.
+Leonberg:A breed of dog in the family Canidae, known for their long, flowing hair and ability to survive in cold climates.
+miniature poodle:A breed of dog in the family Canidae, known for their small size, Intelligence and eagerness to please.
+red wolf:A species of mammal in the family Canidae, known for their large size, powerful jaws and ability to hunt in packs.
+Kit fox:A small fox species known for its vibrant coats and playful behavior.
+Snow leopard:A species of leopard known for living in the snow-covered mountains of Asia.
+Brown bear:A large bear species known for their distinctive black and white pelts and ability to live in a variety of environments.
+Mongoose:A small carnivorous mammal known for their intelligence, ability to hunt in packs and ability to survive in a variety of habitats.
+Leaf beetle:A type of beetle known for their colorful elytra and ability to eat leaves.
+Rhinoceros beetle:A species of beetle known for their large, horn-like antennae and ability to live in a variety of environments.
+Damselfly:A type of dragonfly known for their beautiful hindwings and ability to hover.
+Monarch:A species of butterfly known for their distinctive yellow and black wings and migration habits.
+Sea urchin:A species of urchin known for their large, spiny shells and ability to survive in a variety of environments.
+Zebra:A species of equine known for their distinctive stripes and ability to survive in a variety of habitats.
+Polecat:A small arctic mammal known for their thick winter coats and ability to survive in cold environments.
+Black-footed ferret:A species of ferret known for their ability to live in cold environments and ability to hunt in packs.
+Indri:A species of mountain gorilla known for their distinctive large ears and ability to survive in low-oxygen environments.
+Giant panda:A species of bear known for their distinctive black and white coats, love of bamboo and ability to survive in a variety of habitats.
+Gar:A type of hairstyle known for its flowing waves and ability to add personality to a person's appearance.
+Accordion:A musical instrument known for its ability to play melodies and chord progressions.
+Balance beam:A type of track known for its ability to test a person's balance and flexibility.
+Barrow:A type of construction known for its ability to store and protect valuables.
+Beach wagon:A type of transportation known for its ability to transport people and goods quickly and efficiently.
+Bikini:A type of swimsuit known for its ability to showcase a person's figure and promote comfort while swimming.
+Binoculars:A type of optical device known for their ability to provide a magnified view of objects.
+Bookcase:A type of furniture known for its ability to hold and display books and other materials.
+Bow tie:A type of necktie known for its ability to add style and elegance to a person's appearance.
+Canoe:A type of boat known for its ability to navigate rivers, lakes and oceans.
+Cardigan:A type of sweater known for its ability to provide warmth and comfort while wearing.
+Computer keyboard:A device used for typing and controlling a computer.
+Container ship:A large ship used for shipping goods and materials.
+cuirass:A protective device worn around the waist.
+disk brake:A type of brake used on vehicles to slow down or stop quickly.
+fire screen:A device used to prevent fire from spreading.
+fountain:A device used to supply water to a public area.
+go-kart:A small, raced-style vehicle used for fun and competition.
+guillotine:A tool used for cutting food into pieces.
+hair slide:A device used to style hair and create different looks.
+hand blower:A tool used for blowing air into a person's hair to style it.
+hourglass:A device used to measure time and determine the amount of time remaining.
+jersey:A type of shirt with a long, flowing hemline.
+ladle:A tool used for scooping and serving food.
+lawn mower:A tool used for cutting grass and other groundcovers.
+Loafer:An item of clothing worn by people who enjoy spending time on the couch.
+lumbermill:A facility used for manufacturing lumber and other building materials.
+mailbox:A device used to store and deliver mail.
+maze:A type of puzzle that involves threading a path through a series of obstacles.
+mortar:A tool used for mixing and applying materials, such as concrete.
+paddlewheel:A device used to power a waterwheel or other machine.
+paintbrush:A tool used for applying paint to a surface.
+parallel bars:A type of exercise equipment used to strengthen the upper body.
+pedestal:A device used to support a statue or other object.
+pot:A container used for cooking and serving food.
+restaurant:A place where food is served to customers.
+Safety pin:A small safety pin is a staple used for fastening items such as clothing, fabric, or paper.
+Scale:A scale is a device used to measure the weight of an object.
+Shield:A shield is a device used to protect an individual or object from attack.
+Shoe shop:A shoe shop is a place where shoes are sold and repaired.
+Speedboat:A speedboat is a type of boat used for fast transportation.
+Steel drum:A steel drum is a large container used for storing and transporting goods.
+Stone wall:A stone wall is a solid wall made of stone.
+Swing:A swing is a device used for swinging and exercising.
+Tray:A tray is a device used to hold food or other items.
+Trench coat:A trench coat is a long, thick coat used in cold weather.
+trolleybus:A trolleybus is a type of bus that operates on a track.
+Volleyball:A volleyball is a game played on a court with a net, using a ball.
+Waffle iron:A waffle iron is a device used for cooking waffles.
+Water bottle:A water bottle is a container used for storing water.
+wing:A wing is a device used for flying.
+yawl:A yawl is a type of sailboat with a long, low bow.
+comic book:A comic book is a book or collection of comic books.
+trifle:A trifle is a small, often light, object.
+ice cream:Ice cream is a type of frozen dessert.
+butternut squash:A butternut squash is a winter squash grown in the United States.
+strawberry:A strawberry is a type of fruit.
+coral reef:A coral reef is a type of marine ecosystem.
+sandbar:A sandbar is a sandy area on the beach.
+groom:A groom is a person who specializes in caring for and styling horses.
+agaric:A agaric is a type of vine used for making wine and jelly.
