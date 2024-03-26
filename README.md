@@ -1,6 +1,6 @@
 # TagFog
-Code for AAAI2024 paper: TagFog：Textual Anchor Guidance and Fake Outlier Generation for Visual Out-of-distribution Detection Paper:
-# Abstract[AAAI2024-TagFog (2).pdf](https://github.com/Cverchen/TagFog/files/14761092/AAAI2024-TagFog.2.pdf)
+Code for AAAI2024 paper: TagFog：Textual Anchor Guidance and Fake Outlier Generation for Visual Out-of-distribution Detection Paper: [AAAI2024-TagFog.pdf](https://github.com/Cverchen/TagFog/files/14761092/AAAI2024-TagFog.2.pdf)
+# Abstract
 
 Out-of-distribution (OOD) detection is crucial in many realworld applications. However, intelligent models are often
 trained solely on in-distribution (ID) data, leading to overconfidence when misclassifying OOD data as ID classes. In
